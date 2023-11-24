@@ -42,7 +42,7 @@ This project requires that the following packages are installed:
 - `numpy` for scientific maths.
 - `scipy`/`scipy.stats` for statistics and probability distributions.
 - `matplotlib` for plots (native).
-- `seaborn` for adanced plotting wrapper.
+- `seaborn` for advanced plotting wrapper.
 
 ### References
 
