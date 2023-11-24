@@ -4,8 +4,8 @@ Code illustrating the "ventriloquist effect" using a generative model and
 an ideal Bayesian observer model, inspired on Kording et al. (2007) and
 also described in Ferreira & Dias (2014).
 
-A generative model is used to simulate experimental trial data, which models visual
-and auditory stimuli corresponding to either one source or two independent sources.
+A generative model will be used to simulate experimental trial data, which models visual
+and auditory stimuli corresponding to either one source or two independent sources (currently includes stub code instead, generating fixed experimental data for only 10 trials: to be edited by students).
 
 An ideal Bayesian observer is then used to implement a model to estimate whether stimuli arise 
 from a common cause (the "ventriloquist effect") and to estimate individual stimulus source locations
